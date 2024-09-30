@@ -1,0 +1,5 @@
+Link Data set : https://www.kaggle.com/datasets/mohamedmaher5/vehicle-classification
+
+Link Huggingface : https://huggingface.co/spaces/EricoR/Image_transportation_classification
+
+Link jurnal : https://www.sciencedirect.com/science/article/abs/pii/S0965997823000522
